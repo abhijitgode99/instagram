@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Manrope:wght@200&family=Satisfy&display=swap');
+
+body{
+    background-color: black;
+}
+.container{
+    width: 400px;
+    height:960px;
+    background-color:white;
+    margin-left: 250px;
+    border-radius: 20px;
+    position: relative;
+}
+/* header h2{
+    position: fixed;
+} */
+.container header h2{
+    width: 380px;
+    color: black;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Satisfy', cursive;
+    font-weight: bold;
+    display: inline-block;
+    padding:10px 10px 10px 10px;
+    margin-bottom: 0px;
+}
+.container span{
+    padding-left: 190px;
+    padding-right: 20px;
+}
+.container .story{
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+.container .story img{
+    border-radius: 100px; 
+    margin-right: 8px;
+    border: 3px solid rgb(174, 11, 38);
+}
+.container figure{
+    display: inline-block;
+    margin: 0px;
+    padding-bottom:10px;
+}
+.container figure figcaption{
+    font-size:x-small;
+    text-align: center;
+}
+.feed{
+    width:400px;
+    position:relative;
+}
+.feed #profile1{
+    border-radius: 100%;
+    margin-left: 10px;
+    border: 2px solid black;
+    margin-top: 0px;
+}
+.feed span{
+    padding-left: 5px;
+}
+.feed #icon1,#icon2,#icon3{
+    padding-left:10px;
+    font-size: x-large;
+    padding-right: 5px;
+}
+.feed #p1{
+    padding-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: smaller;
+}
+.feed #p2{
+    padding-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.footer span{
+    font-size: 35px;
+    padding-left: 40px;
+}
