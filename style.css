@@ -13,14 +13,14 @@ body{
     position: relative;
 }
 /* header h2{
-    position: fixed;
+    position: fixed;                                  
 } */
 .container header h2{
     width: 380px;
     color: black;
     font-family: 'Dosis', sans-serif;
     font-family: 'Manrope', sans-serif;
-    font-family: 'Satisfy', cursive;
+    font-family: 'Satisfy', cursive;               
     font-weight: bold;
     display: inline-block;
     padding:10px 10px 10px 10px;
